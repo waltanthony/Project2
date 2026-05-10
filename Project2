@@ -19,7 +19,7 @@
   <header>
    <div>
     <h1>Best place to learn frontend</h1>
-    <p>Go from being an absolute beginner to pro with a simplified process
+    <p>Go from being an absolute beginner to pro with a simplified process</p>
     <button>Start Now</button>
    <div>
    <figure>
@@ -56,7 +56,7 @@
    </section>
 
    <section id="contact">
-    <h2>Contact<h2>
+    <h2>Contact</h2>
     <form action="">
      <span>Email</span>
      <input type="text" placeholder="jane@example.com>
@@ -74,7 +74,7 @@
    <a href="#contact">Contact</a>
    <a href="">Courses</a>
   </div>
-  <p>Copyright Frontend Simolified</p>
+  <p>Copyright Frontend Simplified</p>
  </footer>
 </body>
 </html>
