@@ -16,9 +16,9 @@ nav{
     background-color: #cafdff;
 }
 
-header{
+header {
     background-color: #eadcff;
-    height: calc(100vh-70px);
+    height: calc(100vh - 70px);
     padding: 24px;
     display: flex;
     align-items: center;
@@ -46,7 +46,7 @@ cursor: pointer;
 a {
 color:black;
 font-size: 24px;
-font-weight: bold:;
+font-weight: bold;
 }
 .logo {
 width: 300px;
@@ -69,11 +69,10 @@ padding-left: 16px;
  align-items: center;
  justify-content: center;
 }
-]
+
 #about,
 #discord,
-#contact,
-footer {
+#contact {
     padding: 48px 0;
 }
 
@@ -82,8 +81,9 @@ footer {
 ABOUT
 
 */
+
 #about {
-  background-color: #f8ffdc;
+  padding: 48px 0;
 }
 
 h2 {
